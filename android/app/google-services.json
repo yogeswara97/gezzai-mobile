@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "148105251351",
+    "firebase_url": "https://portfolio-a0279-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "portfolio-a0279",
+    "storage_bucket": "portfolio-a0279.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148105251351:android:35cd97f1c8928175c7aa52",
+        "android_client_info": {
+          "package_name": "com.example.gezz_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNL5VWy3eYlAqDSV_qVJRDRuWP9loDZEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148105251351:android:7c2c285bdb246d06c7aa52",
+        "android_client_info": {
+          "package_name": "com.gezz_ai.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNL5VWy3eYlAqDSV_qVJRDRuWP9loDZEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148105251351:android:c6948b0c57f22c9cc7aa52",
+        "android_client_info": {
+          "package_name": "com.gezz_ai.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNL5VWy3eYlAqDSV_qVJRDRuWP9loDZEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
